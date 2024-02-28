@@ -1,0 +1,3 @@
+enum AccessEnum{
+  wifi,bluetooth
+}
